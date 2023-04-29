@@ -1,0 +1,4 @@
+baseURL = 'http://zlsh09830123.github.io'
+languageCode = 'en-us'
+title = "Hans Li's Blog"
+theme = 'hugo-theme-stack'
