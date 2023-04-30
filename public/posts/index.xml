@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>All Posts - Hans Li&#39;s Blog</title>
+    <link>http://zlsh09830123.github.io/posts/</link>
+    <description>All Posts | Hans Li&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-tw</language><lastBuildDate>Sat, 29 Apr 2023 23:09:55 &#43;0800</lastBuildDate><atom:link href="http://zlsh09830123.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+  <title>My First Post</title>
+  <link>http://zlsh09830123.github.io/posts/hello-hugo/</link>
+  <pubDate>Sat, 29 Apr 2023 23:09:55 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>http://zlsh09830123.github.io/posts/hello-hugo/</guid>
+  <description><![CDATA[A blog (a truncation of &ldquo;weblog&rdquo;) is an informational website published on the World Wide Web consisting of discrete, often informal diary-style text entries (posts). Posts are typically displayed in reverse chronological order so that the most recent post appears first, at the top of the web page. Until 2009, blogs were usually the work of a single individual,[citation needed] occasionally of a small group, and often covered a single subject or topic.]]></description>
+</item>
+</channel>
+</rss>
